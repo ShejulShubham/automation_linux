@@ -1,10 +1,3 @@
-Here’s the updated `README.md` file with:
-
-1. ✅ Logging support via `.zshrc`.
-2. ✅ A sample task creation example.
-
----
-
 # 🛠️ Task Runner Bash Script
 
 This script automates background tasks by parsing commands and their intervals from a `tasks.json` file. It runs tasks **once on startup** and then **repeats them periodically**, making it perfect for long-running background automation.
