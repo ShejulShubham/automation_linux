@@ -1,10 +1,6 @@
 [
-  {
-    "command": "check_ollama_update",
-    "delay": "5m"
-  },
-  {
-    "command": "echo '🔔 Background task started'",
-    "delay": "1s"
-  }
+    {
+      "command": "echo ' Background task started'",
+      "delay": "1s"
+    }
 ]

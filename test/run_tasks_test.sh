@@ -1,8 +1,8 @@
 #!/bin/bash
 
-TASKS_FILE="$HOME/automation/tasks.json"
-LOG_FILE="$HOME/automation/log_files/task.log"
-LOCK_FILE="/tmp/run_tasks.lock"
+TASKS_FILE="$HOME/automation/test/tasks.json"
+LOG_FILE="$HOME/automation/test/task.log"
+LOCK_FILE="/tmp/run_tasks_test.lock"
 JQ=$(command -v jq)
 INOTIFYWAIT=$(command -v inotifywait)
 

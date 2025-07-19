@@ -1,0 +1,6 @@
+[
+    {
+      "command": "echo 'Background test task started'",
+      "delay": "1s"
+    }
+]
